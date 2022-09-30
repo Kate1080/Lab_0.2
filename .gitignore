@@ -1,0 +1,4 @@
+*.yaml
+*.jpg
+*[0-9].py
+*[!abc].txt
